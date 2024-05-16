@@ -1,0 +1,30 @@
+*{
+  scrollbar-width:  none;
+}
+
+#header.ytd-app {
+    background: transparent !important;
+}
+
+#sponsor-button{
+	display: none !important;  
+}
+
+#chips-wrapper.ytd-feed-filter-chip-bar-renderer {
+  position: static !important;
+}
+
+.vot-segmented-button{
+
+    left: 34px;
+    top: 0px;
+}
+.vot-segment-label{
+  display: none;
+}
+.vot-segmented-button .vot-segment-only-icon{
+  display: none;
+}
+.vot-separator{
+  display: none;
+}
